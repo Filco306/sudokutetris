@@ -7,7 +7,7 @@ An OpenAI gym environment for models to learn playing SudokuTetris, or also know
 Install the requirements
 
 ```
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 Then just do
