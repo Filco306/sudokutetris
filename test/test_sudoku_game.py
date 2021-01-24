@@ -1,6 +1,8 @@
 from src.game import SudokuTetrisGame, PIECES
 import numpy as np
 
+# TBD: Develop more tests to check that things work properly.
+
 
 def test_get_coords():
     game = SudokuTetrisGame()

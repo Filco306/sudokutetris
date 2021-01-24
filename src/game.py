@@ -5,6 +5,7 @@ import gym
 from gym import spaces
 from time import sleep
 
+# TODO: Include more pieces here
 PIECES = [
     ((0, 0),),
     ((0, 0), (0, 1)),  # Two-piece horizontal
